@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "esp_lcd_touch_stmpe610.h": "c",
+        "lvgl.h": "c",
+        "esp_lcd_ili9341.h": "c",
+        "esp_lcd_gc9a01.h": "c"
+    }
+}
